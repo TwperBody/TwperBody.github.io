@@ -523,9 +523,22 @@ samp {
     }
     .post-heading,
     .page-heading {
-      padding: 20vh 0 10vh; /* 调整垂直间距 */
-      @media only screen and (min-width: 768px) {
-          padding: 22vh 0; /* 桌面端间距 */
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%; // 新增高度设置
+      min-height: 100vh; // 确保容器高度
+      
+      h1 {
+          margin-top: 0;
+          font-size: 50px;
+          transform: translateY(-20%); // 微调垂直位置
+      }
+      
+      .subheading {
+          .sans-serif;
+          margin-top: 20px; // 增加与标题的间距
       }
     }
     .tags {
@@ -1114,4 +1127,23 @@ img::-moz-selection {
 
 .no-scroll {
   overflow-y: hidden;
+}
+
+.title-wrapper {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  .site-heading {
+      position: relative;
+      z-index: 2;
+      padding: 0 !important;
+      
+      h1 {
+          text-shadow: 2px 2px 4px rgba(150, 150, 150, 0.3);
+          line-height: 1.2;
+      }
+  }
 }

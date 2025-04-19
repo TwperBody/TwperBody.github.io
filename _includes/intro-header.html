@@ -100,13 +100,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        {% if include.short %}
-        <div class="site-heading" id="tag-heading">
-        {% else %}
-        <div class="site-heading">
-        {% endif %}
-          <h1 class="title-center">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-          <span class="subheading">{{ page.description }}</span>
+        <div class="title-wrapper"> <!-- 新增包装容器 -->
+          {% if include.short %}
+          <div class="site-heading" id="tag-heading">
+          {% else %}
+          <div class="site-heading">
+          {% endif %}
+            <h1>{{ page.title }}</h1>
+            <span class="subheading">{{ page.description }}</span>
+          </div>
         </div>
       </div>
     </div>
