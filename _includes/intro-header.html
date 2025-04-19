@@ -7,6 +7,7 @@
 <style type="text/css">
     header.intro-header{
         position: relative;
+        height: 66vh; /* 修改高度为视窗高度的三分之二 */
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
         background: {{ page.header-bg-css }};
     }
