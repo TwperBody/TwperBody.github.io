@@ -99,11 +99,10 @@
   <div class="header-mask"></div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <!-- 修改 100-110 行附近的 .site-heading 容器 -->
-        <div class="site-heading{% if include.short %}" id="tag-heading{% endif %}">
-            <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-            <span class="subheading" style="display: block; text-align: center;">{{ page.description }}</span>
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 d-flex flex-column justify-content-center" style="height: 66vh;">
+        <div class="site-heading text-center">
+            <h1 class="mx-auto">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+            <span class="subheading d-block">{{ page.description }}</span>
         </div>
       </div>
     </div>
