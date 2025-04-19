@@ -506,13 +506,26 @@ samp {
 .intro-header {
   &.style-text {
     background: none;
-    .site-heading,
+    .site-heading {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%;
+      
+      .title-center {
+        text-align: center;
+        width: 100%;
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+      }
+    }
     .post-heading,
     .page-heading {
-      padding: 85px 0 20px;
-      color: @gray-dark;
-      .subheading {
-        margin-bottom: 15px;
+      padding: 20vh 0 10vh; /* 调整垂直间距 */
+      @media only screen and (min-width: 768px) {
+          padding: 22vh 0; /* 桌面端间距 */
       }
     }
     .tags {
