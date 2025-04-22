@@ -1,0 +1,18 @@
+[
+  {
+    "name": "visual-studio-code",
+    "ds": "轻量级代码编辑器",
+    "vin": "1.85.0",
+    "wrt": "Microsoft",
+    "time": "2023-12-01",
+    "url": "/downloads/vscode.exe"
+  },
+  {
+    "name": "intellij-idea",
+    "ds": "Java集成开发环境",
+    "vin": "2023.3",
+    "wrt": "JetBrains",
+    "time": "2023-11-30",
+    "url": "/downloads/idea.exe"
+  }
+]
