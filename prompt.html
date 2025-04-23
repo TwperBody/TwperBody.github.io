@@ -11,7 +11,6 @@ header-mask: 0.3
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <h1 class="my-4">开源prompt文件下载中心</h1>
       
-      
       <div class="search-box">
         <input type="text" id="searchInput" class="form-control" 
                placeholder="根据描述搜索文件...">
@@ -116,12 +115,20 @@ header-mask: 0.3
     padding: 5px 12px;
     border-radius: 15px;
     transition: all 0.3s ease;
+    color: #fff !important; /* 强制文字白色 */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* 保持字体统一 */
   }
   .btn-download i {
     margin-right: 5px;
+    vertical-align: middle; /* 图标文字垂直居中 */
+  }
+  .btn-download span {
+    font-size: 14px; /* 明确字号 */
+    display: inline-block; /* 解决span元素布局问题 */
   }
   .btn-download:hover {
     transform: translateY(-2px);
     box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    color: #fff; /* 悬浮保持白色 */
   }
 </style>
