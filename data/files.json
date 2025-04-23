@@ -1,11 +1,11 @@
 [
   {
-    "name": "visual-studio-code",
-    "ds": "轻量级代码编辑器",
-    "vin": "1.85.0",
-    "wrt": "Microsoft",
+    "name": "投稿规则",
+    "ds": "经遵循本项目下data/files.json的命名规则提供相关信息，打包prompt文件与独立的json发送到mcjiekejiemi@163.com邮箱下或者提交iss，不支持pr",
+    "vin": "1.0",
+    "wrt": "TwperBody",
     "time": "2023-12-01",
-    "url": "/downloads/vscode.exe"
+    "url": "/data/files.json"
   },
   {
     "name": "intellij-idea",
@@ -13,6 +13,6 @@
     "vin": "2023.3",
     "wrt": "JetBrains",
     "time": "2023-11-30",
-    "url": "/downloads/idea.exe"
+    "url": "/data/idea.exe"
   }
 ]
