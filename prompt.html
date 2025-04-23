@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 开源prompt文件下载中心
-description: "「侵权专线」"
+title: prompt
+description: "「LangBot专线」"
 header-img: "img/bg-download.jpg"
 header-mask: 0.3
 ---
@@ -9,7 +9,8 @@ header-mask: 0.3
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <h1 class="my-4">资源库</h1>
+      <h1 class="my-4">开源prompt文件下载中心</h1>
+      
       
       <div class="search-box">
         <input type="text" id="searchInput" class="form-control" 
@@ -38,7 +39,6 @@ header-mask: 0.3
     </div>
   </div>
 </div>
-
   <script src="/js/jquery.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
   <script>
@@ -63,8 +63,9 @@ header-mask: 0.3
           <td>${file.wrt}</td>
           <td>${file.time}</td>
           <td>
-            <a href="${file.url}" class="btn btn-primary download-btn">
-              下载
+            <a href="${file.url}" class="btn btn-primary btn-sm btn-download">
+              <i class="fa fa-download"></i>
+              <span>下载</span>
             </a>
           </td>
         </tr>
@@ -108,3 +109,19 @@ header-mask: 0.3
     <div id="disqus_thread" class="disqus-thread"></div>
 </div>
 {% endif %}
+
+<style>
+  /* 在原有样式基础上新增 */
+  .btn-download {
+    padding: 5px 12px;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+  }
+  .btn-download i {
+    margin-right: 5px;
+  }
+  .btn-download:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+</style>
