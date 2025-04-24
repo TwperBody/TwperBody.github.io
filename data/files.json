@@ -16,12 +16,40 @@
     "url": "/data/default.json"
   },
   {
+    "name": "AI画师",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/ai画师.json",
+    "format": "json"
+  },
+  {
+    "name": "deepseek破限猫娘",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/deepseek破限猫娘.json",
+    "format": "json"
+  },
+  {
     "name": "K-青眼究极战",
     "ds": "几乎为酒馆转，可能不太好用",
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/k-青眼究极战.json"
+    "url": "/data/k-青眼究极战.json",
+    "format": "json"
+  },
+  {
+    "name": "neuro",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/neuro.json",
+    "format": "json"
   },
   {
     "name": "三日月闲",
@@ -29,7 +57,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/三日月闲.json"
+    "url": "/data/三日月闲.json",
+    "format": "json"
   },
   {
     "name": "上杉谦信",
@@ -37,7 +66,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/上杉谦信.json"
+    "url": "/data/上杉谦信.json",
+    "format": "json"
   },
   {
     "name": "丹霞",
@@ -45,7 +75,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/丹霞.json"
+    "url": "/data/丹霞.json",
+    "format": "json"
   },
   {
     "name": "九畔-守捉城-剧情补充",
@@ -53,7 +84,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/九畔-守捉城-剧情补充.json"
+    "url": "/data/九畔-守捉城-剧情补充.json",
+    "format": "json"
   },
   {
     "name": "九畔大陆奇观—钬璃交易广场",
@@ -61,7 +93,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/九畔大陆奇观—钬璃交易广场.json"
+    "url": "/data/九畔大陆奇观—钬璃交易广场.json",
+    "format": "json"
   },
   {
     "name": "云琅",
@@ -69,7 +102,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/云琅.json"
+    "url": "/data/云琅.json",
+    "format": "json"
   },
   {
     "name": "五河士道",
@@ -77,7 +111,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/五河士道.json"
+    "url": "/data/五河士道.json",
+    "format": "json"
   },
   {
     "name": "伊莎·格雷",
@@ -85,7 +120,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/伊莎·格雷.json"
+    "url": "/data/伊莎·格雷.json",
+    "format": "json"
   },
   {
     "name": "修女芙莉德",
@@ -93,7 +129,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/修女芙莉德.json"
+    "url": "/data/修女芙莉德.json",
+    "format": "json"
   },
   {
     "name": "催眠术",
@@ -101,7 +138,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/催眠术.json"
+    "url": "/data/催眠术.json",
+    "format": "json"
   },
   {
     "name": "光明传说：黎明时刻",
@@ -109,7 +147,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/光明传说：黎明时刻.json"
+    "url": "/data/光明传说：黎明时刻.json",
+    "format": "json"
   },
   {
     "name": "克劳德·史特莱夫",
@@ -117,7 +156,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/克劳德·史特莱夫.json"
+    "url": "/data/克劳德·史特莱夫.json",
+    "format": "json"
   },
   {
     "name": "全能助手",
@@ -125,7 +165,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/全能助手.json"
+    "url": "/data/全能助手.json",
+    "format": "json"
   },
   {
     "name": "兰花",
@@ -133,7 +174,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/兰花.json"
+    "url": "/data/兰花.json",
+    "format": "json"
   },
   {
     "name": "内藤舞亚",
@@ -141,7 +183,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/内藤舞亚.json"
+    "url": "/data/内藤舞亚.json",
+    "format": "json"
   },
   {
     "name": "冰龙女王安静",
@@ -149,7 +192,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/冰龙女王安静.json"
+    "url": "/data/冰龙女王安静.json",
+    "format": "json"
   },
   {
     "name": "凌奇",
@@ -157,7 +201,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/凌奇.json"
+    "url": "/data/凌奇.json",
+    "format": "json"
   },
   {
     "name": "列克星敦",
@@ -165,7 +210,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/列克星敦.json"
+    "url": "/data/列克星敦.json",
+    "format": "json"
   },
   {
     "name": "利姆鲁·特恩佩斯特",
@@ -173,7 +219,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/利姆鲁·特恩佩斯特.json"
+    "url": "/data/利姆鲁·特恩佩斯特.json",
+    "format": "json"
   },
   {
     "name": "刻匕不赖恩特",
@@ -181,7 +228,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/刻匕不赖恩特.json"
+    "url": "/data/刻匕不赖恩特.json",
+    "format": "json"
   },
   {
     "name": "刻晴",
@@ -189,7 +237,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/刻晴.json"
+    "url": "/data/刻晴.json",
+    "format": "json"
   },
   {
     "name": "加岛龙斗",
@@ -197,7 +246,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/加岛龙斗.json"
+    "url": "/data/加岛龙斗.json",
+    "format": "json"
   },
   {
     "name": "化念孤星",
@@ -205,7 +255,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/化念孤星.json"
+    "url": "/data/化念孤星.json",
+    "format": "json"
   },
   {
     "name": "千代子",
@@ -213,7 +264,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/千代子.json"
+    "url": "/data/千代子.json",
+    "format": "json"
   },
   {
     "name": "南文亿",
@@ -221,7 +273,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/南文亿.json"
+    "url": "/data/南文亿.json",
+    "format": "json"
   },
   {
     "name": "卡缪·比丹",
@@ -229,7 +282,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/卡缪·比丹.json"
+    "url": "/data/卡缪·比丹.json",
+    "format": "json"
   },
   {
     "name": "卫宫士郎",
@@ -237,7 +291,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/卫宫士郎.json"
+    "url": "/data/卫宫士郎.json",
+    "format": "json"
   },
   {
     "name": "原神转生-九畔.ver",
@@ -245,7 +300,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/原神转生-九畔.ver.json"
+    "url": "/data/原神转生-九畔.ver.json",
+    "format": "json"
   },
   {
     "name": "哈斯太",
@@ -253,7 +309,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/哈斯太.json"
+    "url": "/data/哈斯太.json",
+    "format": "json"
   },
   {
     "name": "国王游戏",
@@ -261,7 +318,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/国王游戏.json"
+    "url": "/data/国王游戏.json",
+    "format": "json"
   },
   {
     "name": "埃尔莎·冷风",
@@ -269,7 +327,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/埃尔莎·冷风.json"
+    "url": "/data/埃尔莎·冷风.json",
+    "format": "json"
   },
   {
     "name": "塞西莉亚",
@@ -277,7 +336,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/塞西莉亚.json"
+    "url": "/data/塞西莉亚.json",
+    "format": "json"
   },
   {
     "name": "夏蕾",
@@ -285,7 +345,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/夏蕾.json"
+    "url": "/data/夏蕾.json",
+    "format": "json"
   },
   {
     "name": "天龙型轻巡洋舰姐妹",
@@ -293,7 +354,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/天龙型轻巡洋舰姐妹.json"
+    "url": "/data/天龙型轻巡洋舰姐妹.json",
+    "format": "json"
   },
   {
     "name": "奇幻世界小说机器人",
@@ -301,7 +363,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/奇幻世界小说机器人.json"
+    "url": "/data/奇幻世界小说机器人.json",
+    "format": "json"
   },
   {
     "name": "娄千菁",
@@ -309,7 +372,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/娄千菁.json"
+    "url": "/data/娄千菁.json",
+    "format": "json"
   },
   {
     "name": "学术写作助理",
@@ -317,7 +381,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/学术写作助理.json"
+    "url": "/data/学术写作助理.json",
+    "format": "json"
   },
   {
     "name": "学长",
@@ -325,7 +390,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/学长.json"
+    "url": "/data/学长.json",
+    "format": "json"
   },
   {
     "name": "守捉城",
@@ -333,7 +399,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/守捉城.json"
+    "url": "/data/守捉城.json",
+    "format": "json"
   },
   {
     "name": "家",
@@ -341,7 +408,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/家.json"
+    "url": "/data/家.json",
+    "format": "json"
   },
   {
     "name": "密教的神像",
@@ -349,7 +417,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/密教的神像.json"
+    "url": "/data/密教的神像.json",
+    "format": "json"
   },
   {
     "name": "小T",
@@ -357,7 +426,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/小t.json"
+    "url": "/data/小t.json",
+    "format": "json"
   },
   {
     "name": "小小甜心",
@@ -365,7 +435,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/小小甜心.json"
+    "url": "/data/小小甜心.json",
+    "format": "json"
   },
   {
     "name": "山上彻也",
@@ -373,7 +444,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/山上彻也.json"
+    "url": "/data/山上彻也.json",
+    "format": "json"
   },
   {
     "name": "山本真夜",
@@ -381,7 +453,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/山本真夜.json"
+    "url": "/data/山本真夜.json",
+    "format": "json"
   },
   {
     "name": "巴巴罗萨",
@@ -389,7 +462,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/巴巴罗萨.json"
+    "url": "/data/巴巴罗萨.json",
+    "format": "json"
   },
   {
     "name": "布拉纳",
@@ -397,7 +471,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/布拉纳.json"
+    "url": "/data/布拉纳.json",
+    "format": "json"
   },
   {
     "name": "希尔薇娅",
@@ -405,7 +480,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/希尔薇娅.json"
+    "url": "/data/希尔薇娅.json",
+    "format": "json"
   },
   {
     "name": "希特勒",
@@ -413,7 +489,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/希特勒.json"
+    "url": "/data/希特勒.json",
+    "format": "json"
   },
   {
     "name": "希露菲",
@@ -421,7 +498,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/希露菲.json"
+    "url": "/data/希露菲.json",
+    "format": "json"
   },
   {
     "name": "帝女凤",
@@ -429,7 +507,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/帝女凤.json"
+    "url": "/data/帝女凤.json",
+    "format": "json"
   },
   {
     "name": "幸",
@@ -437,7 +516,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/幸.json"
+    "url": "/data/幸.json",
+    "format": "json"
   },
   {
     "name": "幽暗深渊",
@@ -445,7 +525,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/幽暗深渊.json"
+    "url": "/data/幽暗深渊.json",
+    "format": "json"
   },
   {
     "name": "库拉拉",
@@ -453,7 +534,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/库拉拉.json"
+    "url": "/data/库拉拉.json",
+    "format": "json"
   },
   {
     "name": "异世界地下城系统",
@@ -461,7 +543,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/异世界地下城系统.json"
+    "url": "/data/异世界地下城系统.json",
+    "format": "json"
   },
   {
     "name": "异能世界",
@@ -469,7 +552,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/异能世界.json"
+    "url": "/data/异能世界.json",
+    "format": "json"
   },
   {
     "name": "异能学园",
@@ -477,7 +561,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/异能学园.json"
+    "url": "/data/异能学园.json",
+    "format": "json"
   },
   {
     "name": "御影友姬",
@@ -485,7 +570,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/御影友姬.json"
+    "url": "/data/御影友姬.json",
+    "format": "json"
   },
   {
     "name": "微博",
@@ -493,7 +579,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/微博.json"
+    "url": "/data/微博.json",
+    "format": "json"
   },
   {
     "name": "恋恋",
@@ -501,7 +588,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/恋恋.json"
+    "url": "/data/恋恋.json",
+    "format": "json"
   },
   {
     "name": "悬壶济世模拟器",
@@ -509,7 +597,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/悬壶济世模拟器.json"
+    "url": "/data/悬壶济世模拟器.json",
+    "format": "json"
   },
   {
     "name": "我的彩虹小马",
@@ -517,7 +606,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/我的彩虹小马.json"
+    "url": "/data/我的彩虹小马.json",
+    "format": "json"
   },
   {
     "name": "战锤",
@@ -525,7 +615,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/战锤.json"
+    "url": "/data/战锤.json",
+    "format": "json"
   },
   {
     "name": "托尔兹后宫学院",
@@ -533,7 +624,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/托尔兹后宫学院.json"
+    "url": "/data/托尔兹后宫学院.json",
+    "format": "json"
   },
   {
     "name": "托爾茲後宮學院",
@@ -541,7 +633,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/托爾茲後宮學院.json"
+    "url": "/data/托爾茲後宮學院.json",
+    "format": "json"
   },
   {
     "name": "拿破仑·波拿巴",
@@ -549,7 +642,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/拿破仑·波拿巴.json"
+    "url": "/data/拿破仑·波拿巴.json",
+    "format": "json"
   },
   {
     "name": "新春茶餐厅",
@@ -557,7 +651,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/新春茶餐厅.json"
+    "url": "/data/新春茶餐厅.json",
+    "format": "json"
   },
   {
     "name": "无限回溯",
@@ -565,7 +660,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/无限回溯.json"
+    "url": "/data/无限回溯.json",
+    "format": "json"
   },
   {
     "name": "日向夏美",
@@ -573,7 +669,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/日向夏美.json"
+    "url": "/data/日向夏美.json",
+    "format": "json"
   },
   {
     "name": "日暮戈薇",
@@ -581,7 +678,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/日暮戈薇.json"
+    "url": "/data/日暮戈薇.json",
+    "format": "json"
   },
   {
     "name": "早乙女乱马",
@@ -589,7 +687,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/早乙女乱马.json"
+    "url": "/data/早乙女乱马.json",
+    "format": "json"
   },
   {
     "name": "早乙女有人",
@@ -597,7 +696,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/早乙女有人.json"
+    "url": "/data/早乙女有人.json",
+    "format": "json"
   },
   {
     "name": "早瀬未沙",
@@ -605,7 +705,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/早瀬未沙.json"
+    "url": "/data/早瀬未沙.json",
+    "format": "json"
   },
   {
     "name": "明智光秀",
@@ -613,7 +714,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/明智光秀.json"
+    "url": "/data/明智光秀.json",
+    "format": "json"
   },
   {
     "name": "星际战俘系统",
@@ -621,7 +723,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/星际战俘系统.json"
+    "url": "/data/星际战俘系统.json",
+    "format": "json"
   },
   {
     "name": "景唐",
@@ -629,7 +732,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/景唐.json"
+    "url": "/data/景唐.json",
+    "format": "json"
   },
   {
     "name": "暗裔剑魔-亚托克斯",
@@ -637,7 +741,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/暗裔剑魔-亚托克斯.json"
+    "url": "/data/暗裔剑魔-亚托克斯.json",
+    "format": "json"
   },
   {
     "name": "木下藤吉郎",
@@ -645,7 +750,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/木下藤吉郎.json"
+    "url": "/data/木下藤吉郎.json",
+    "format": "json"
   },
   {
     "name": "末末",
@@ -653,7 +759,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/末末.json"
+    "url": "/data/末末.json",
+    "format": "json"
   },
   {
     "name": "本间芽衣子",
@@ -661,7 +768,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/本间芽衣子.json"
+    "url": "/data/本间芽衣子.json",
+    "format": "json"
   },
   {
     "name": "李星回",
@@ -669,7 +777,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/李星回.json"
+    "url": "/data/李星回.json",
+    "format": "json"
   },
   {
     "name": "杰克森医生",
@@ -677,7 +786,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/杰克森医生.json"
+    "url": "/data/杰克森医生.json",
+    "format": "json"
   },
   {
     "name": "林明美",
@@ -685,7 +795,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/林明美.json"
+    "url": "/data/林明美.json",
+    "format": "json"
   },
   {
     "name": "林青竹",
@@ -693,7 +804,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/林青竹.json"
+    "url": "/data/林青竹.json",
+    "format": "json"
   },
   {
     "name": "某某的鸡鸡",
@@ -701,7 +813,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/某某的鸡鸡.json"
+    "url": "/data/某某的鸡鸡.json",
+    "format": "json"
   },
   {
     "name": "桐谷和人",
@@ -709,7 +822,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/桐谷和人.json"
+    "url": "/data/桐谷和人.json",
+    "format": "json"
   },
   {
     "name": "梅琳娜",
@@ -717,7 +831,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/梅琳娜.json"
+    "url": "/data/梅琳娜.json",
+    "format": "json"
   },
   {
     "name": "梣_雨之魔女",
@@ -725,7 +840,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/梣_雨之魔女.json"
+    "url": "/data/梣_雨之魔女.json",
+    "format": "json"
   },
   {
     "name": "森雪",
@@ -733,7 +849,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/森雪.json"
+    "url": "/data/森雪.json",
+    "format": "json"
   },
   {
     "name": "楚哉·乐兰",
@@ -741,7 +858,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/楚哉·乐兰.json"
+    "url": "/data/楚哉·乐兰.json",
+    "format": "json"
   },
   {
     "name": "武田信玄",
@@ -749,7 +867,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/武田信玄.json"
+    "url": "/data/武田信玄.json",
+    "format": "json"
   },
   {
     "name": "求医问药模拟器",
@@ -757,7 +876,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/求医问药模拟器.json"
+    "url": "/data/求医问药模拟器.json",
+    "format": "json"
   },
   {
     "name": "江羽&冷若曦",
@@ -765,7 +885,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/江羽&冷若曦.json"
+    "url": "/data/江羽&冷若曦.json",
+    "format": "json"
   },
   {
     "name": "沈玉",
@@ -773,7 +894,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/沈玉.json"
+    "url": "/data/沈玉.json",
+    "format": "json"
   },
   {
     "name": "泰勒",
@@ -781,7 +903,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/泰勒.json"
+    "url": "/data/泰勒.json",
+    "format": "json"
   },
   {
     "name": "洛克人",
@@ -789,7 +912,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/洛克人.json"
+    "url": "/data/洛克人.json",
+    "format": "json"
   },
   {
     "name": "洛琉璃",
@@ -797,7 +921,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/洛琉璃.json"
+    "url": "/data/洛琉璃.json",
+    "format": "json"
   },
   {
     "name": "洛花",
@@ -805,7 +930,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/洛花.json"
+    "url": "/data/洛花.json",
+    "format": "json"
   },
   {
     "name": "海伦",
@@ -813,7 +939,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/海伦.json"
+    "url": "/data/海伦.json",
+    "format": "json"
   },
   {
     "name": "海龟汤游戏系统",
@@ -821,7 +948,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/海龟汤游戏系统.json"
+    "url": "/data/海龟汤游戏系统.json",
+    "format": "json"
   },
   {
     "name": "清筱",
@@ -829,7 +957,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/清筱.json"
+    "url": "/data/清筱.json",
+    "format": "json"
   },
   {
     "name": "灵剑双子（阿娇+阿莎）",
@@ -837,7 +966,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/灵剑双子（阿娇+阿莎）.json"
+    "url": "/data/灵剑双子（阿娇+阿莎）.json",
+    "format": "json"
   },
   {
     "name": "特蕾莎",
@@ -845,7 +975,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/特蕾莎.json"
+    "url": "/data/特蕾莎.json",
+    "format": "json"
   },
   {
     "name": "狂魔哥",
@@ -853,7 +984,17 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/狂魔哥.json"
+    "url": "/data/狂魔哥.json",
+    "format": "json"
+  },
+  {
+    "name": "猫娘",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/猫娘.json",
+    "format": "json"
   },
   {
     "name": "玛克西米丽安·罗贝丝皮耶尔",
@@ -861,7 +1002,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/玛克西米丽安·罗贝丝皮耶尔.json"
+    "url": "/data/玛克西米丽安·罗贝丝皮耶尔.json",
+    "format": "json"
   },
   {
     "name": "理塘丁真",
@@ -869,7 +1011,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/理塘丁真.json"
+    "url": "/data/理塘丁真.json",
+    "format": "json"
   },
   {
     "name": "琉星",
@@ -877,7 +1020,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/琉星.json"
+    "url": "/data/琉星.json",
+    "format": "json"
   },
   {
     "name": "神明养成游戏",
@@ -885,7 +1029,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/神明养成游戏.json"
+    "url": "/data/神明养成游戏.json",
+    "format": "json"
   },
   {
     "name": "神秘面具人",
@@ -893,7 +1038,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/神秘面具人.json"
+    "url": "/data/神秘面具人.json",
+    "format": "json"
   },
   {
     "name": "秋月凉",
@@ -901,7 +1047,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/秋月凉.json"
+    "url": "/data/秋月凉.json",
+    "format": "json"
   },
   {
     "name": "秦雪风纪委员",
@@ -909,7 +1056,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/秦雪风纪委员.json"
+    "url": "/data/秦雪风纪委员.json",
+    "format": "json"
   },
   {
     "name": "笨蛋新人-瑞树",
@@ -917,7 +1065,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/笨蛋新人-瑞树.json"
+    "url": "/data/笨蛋新人-瑞树.json",
+    "format": "json"
   },
   {
     "name": "糖糖",
@@ -925,7 +1074,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/糖糖.json"
+    "url": "/data/糖糖.json",
+    "format": "json"
   },
   {
     "name": "绘画世界的大小姐",
@@ -933,7 +1083,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/绘画世界的大小姐.json"
+    "url": "/data/绘画世界的大小姐.json",
+    "format": "json"
   },
   {
     "name": "维吉尔",
@@ -941,7 +1092,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/维吉尔.json"
+    "url": "/data/维吉尔.json",
+    "format": "json"
   },
   {
     "name": "缇娜",
@@ -949,7 +1101,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/缇娜.json"
+    "url": "/data/缇娜.json",
+    "format": "json"
   },
   {
     "name": "群雄逐鹿 新版",
@@ -957,7 +1110,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/群雄逐鹿-新版.json"
+    "url": "/data/群雄逐鹿-新版.json",
+    "format": "json"
   },
   {
     "name": "群雄逐鹿",
@@ -965,7 +1119,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/群雄逐鹿.json"
+    "url": "/data/群雄逐鹿.json",
+    "format": "json"
   },
   {
     "name": "羽丘芽美",
@@ -973,7 +1128,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/羽丘芽美.json"
+    "url": "/data/羽丘芽美.json",
+    "format": "json"
   },
   {
     "name": "自动生成器",
@@ -981,7 +1137,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器.json"
+    "url": "/data/自动生成器.json",
+    "format": "json"
   },
   {
     "name": "自动生成器2.0",
@@ -989,7 +1146,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器2.0.json"
+    "url": "/data/自动生成器2.0.json",
+    "format": "json"
   },
   {
     "name": "自动生成器2.1",
@@ -997,7 +1155,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器2.1.json"
+    "url": "/data/自动生成器2.1.json",
+    "format": "json"
   },
   {
     "name": "自动生成器2.2",
@@ -1005,7 +1164,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器2.2.json"
+    "url": "/data/自动生成器2.2.json",
+    "format": "json"
   },
   {
     "name": "自动生成器2.3",
@@ -1013,7 +1173,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器2.3.json"
+    "url": "/data/自动生成器2.3.json",
+    "format": "json"
   },
   {
     "name": "自动生成器2.4",
@@ -1021,7 +1182,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/自动生成器2.4.json"
+    "url": "/data/自动生成器2.4.json",
+    "format": "json"
   },
   {
     "name": "至善城",
@@ -1029,7 +1191,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/至善城.json"
+    "url": "/data/至善城.json",
+    "format": "json"
   },
   {
     "name": "臼井幸",
@@ -1037,7 +1200,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/臼井幸.json"
+    "url": "/data/臼井幸.json",
+    "format": "json"
   },
   {
     "name": "艾伦·贝可",
@@ -1045,7 +1209,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/艾伦·贝可.json"
+    "url": "/data/艾伦·贝可.json",
+    "format": "json"
   },
   {
     "name": "艾尔涅斯帝·埃切贝里亚",
@@ -1053,7 +1218,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/艾尔涅斯帝·埃切贝里亚.json"
+    "url": "/data/艾尔涅斯帝·埃切贝里亚.json",
+    "format": "json"
   },
   {
     "name": "艾拉",
@@ -1061,7 +1227,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/艾拉.json"
+    "url": "/data/艾拉.json",
+    "format": "json"
   },
   {
     "name": "艾瑞克",
@@ -1069,7 +1236,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/艾瑞克.json"
+    "url": "/data/艾瑞克.json",
+    "format": "json"
   },
   {
     "name": "艾露米·邓尼茨",
@@ -1077,7 +1245,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/艾露米·邓尼茨.json"
+    "url": "/data/艾露米·邓尼茨.json",
+    "format": "json"
   },
   {
     "name": "芙宁娜",
@@ -1085,7 +1254,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/芙宁娜.json"
+    "url": "/data/芙宁娜.json",
+    "format": "json"
   },
   {
     "name": "芙莉莲",
@@ -1093,7 +1263,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/芙莉莲.json"
+    "url": "/data/芙莉莲.json",
+    "format": "json"
   },
   {
     "name": "莫妮卡 - 副本",
@@ -1101,7 +1272,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/莫妮卡---副本.json"
+    "url": "/data/莫妮卡---副本.json",
+    "format": "json"
   },
   {
     "name": "莫妮卡",
@@ -1109,7 +1281,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/莫妮卡.json"
+    "url": "/data/莫妮卡.json",
+    "format": "json"
   },
   {
     "name": "莫林·林克",
@@ -1117,7 +1290,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/莫林·林克.json"
+    "url": "/data/莫林·林克.json",
+    "format": "json"
   },
   {
     "name": "莱因哈鲁特·范·阿斯特雷亚（战斗特化形态）",
@@ -1125,7 +1299,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/莱因哈鲁特·范·阿斯特雷亚（战斗特化形态）.json"
+    "url": "/data/莱因哈鲁特·范·阿斯特雷亚（战斗特化形态）.json",
+    "format": "json"
   },
   {
     "name": "萝捷",
@@ -1133,7 +1308,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/萝捷.json"
+    "url": "/data/萝捷.json",
+    "format": "json"
   },
   {
     "name": "萨罗·塞洛德",
@@ -1141,7 +1317,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/萨罗·塞洛德.json"
+    "url": "/data/萨罗·塞洛德.json",
+    "format": "json"
   },
   {
     "name": "蕾蒂雅·阿道夫",
@@ -1149,7 +1326,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/蕾蒂雅·阿道夫.json"
+    "url": "/data/蕾蒂雅·阿道夫.json",
+    "format": "json"
   },
   {
     "name": "薇尔莉特",
@@ -1157,7 +1335,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/薇尔莉特.json"
+    "url": "/data/薇尔莉特.json",
+    "format": "json"
   },
   {
     "name": "藤村大河",
@@ -1165,7 +1344,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/藤村大河.json"
+    "url": "/data/藤村大河.json",
+    "format": "json"
   },
   {
     "name": "被子",
@@ -1173,7 +1353,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/被子.json"
+    "url": "/data/被子.json",
+    "format": "json"
   },
   {
     "name": "规则怪谈系统",
@@ -1181,7 +1362,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/规则怪谈系统.json"
+    "url": "/data/规则怪谈系统.json",
+    "format": "json"
   },
   {
     "name": "角色生成助手",
@@ -1189,7 +1371,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/角色生成助手.json"
+    "url": "/data/角色生成助手.json",
+    "format": "json"
   },
   {
     "name": "警察美母",
@@ -1197,7 +1380,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/警察美母.json"
+    "url": "/data/警察美母.json",
+    "format": "json"
   },
   {
     "name": "记录部系统",
@@ -1205,7 +1389,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/记录部系统.json"
+    "url": "/data/记录部系统.json",
+    "format": "json"
   },
   {
     "name": "賽馬娘",
@@ -1213,7 +1398,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/賽馬娘.json"
+    "url": "/data/賽馬娘.json",
+    "format": "json"
   },
   {
     "name": "贞子",
@@ -1221,7 +1407,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/贞子.json"
+    "url": "/data/贞子.json",
+    "format": "json"
   },
   {
     "name": "起名机器",
@@ -1229,7 +1416,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/起名机器.json"
+    "url": "/data/起名机器.json",
+    "format": "json"
   },
   {
     "name": "超级社交平台",
@@ -1237,7 +1425,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/超级社交平台.json"
+    "url": "/data/超级社交平台.json",
+    "format": "json"
   },
   {
     "name": "超级鼠鼠",
@@ -1245,7 +1434,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/超级鼠鼠.json"
+    "url": "/data/超级鼠鼠.json",
+    "format": "json"
   },
   {
     "name": "远月武藏",
@@ -1253,7 +1443,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/远月武藏.json"
+    "url": "/data/远月武藏.json",
+    "format": "json"
   },
   {
     "name": "造物主系统",
@@ -1261,7 +1452,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/造物主系统.json"
+    "url": "/data/造物主系统.json",
+    "format": "json"
   },
   {
     "name": "钢铁雄心4",
@@ -1269,7 +1461,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/钢铁雄心4.json"
+    "url": "/data/钢铁雄心4.json",
+    "format": "json"
   },
   {
     "name": "钢铁雄心：新黎明",
@@ -1277,7 +1470,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/钢铁雄心：新黎明.json"
+    "url": "/data/钢铁雄心：新黎明.json",
+    "format": "json"
   },
   {
     "name": "防火女",
@@ -1285,7 +1479,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/防火女.json"
+    "url": "/data/防火女.json",
+    "format": "json"
   },
   {
     "name": "阿Q",
@@ -1293,7 +1488,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/阿q.json"
+    "url": "/data/阿q.json",
+    "format": "json"
   },
   {
     "name": "阿尔托莉雅",
@@ -1301,23 +1497,26 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/阿尔托莉雅.json"
-  },
-  {
-    "name": "阿洛娜PRO",
-    "ds": "手写",
-    "vin": "1.0.0",
-    "wrt": "TwperBody",
-    "time": "2025-04-24",
-    "url": "/data/阿洛娜pro.json"
+    "url": "/data/阿尔托莉雅.json",
+    "format": "json"
   },
   {
     "name": "阿洛娜",
-    "ds": "手写",
+    "ds": "几乎为酒馆转，可能不太好用",
     "vin": "1.0.0",
-    "wrt": "TwperBody",
+    "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/阿洛娜.json"
+    "url": "/data/阿洛娜.json",
+    "format": "json"
+  },
+  {
+    "name": "阿洛娜PRO",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/阿洛娜pro.json",
+    "format": "json"
   },
   {
     "name": "陆逊",
@@ -1325,7 +1524,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/陆逊.json"
+    "url": "/data/陆逊.json",
+    "format": "json"
   },
   {
     "name": "雷德",
@@ -1333,7 +1533,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/雷德.json"
+    "url": "/data/雷德.json",
+    "format": "json"
   },
   {
     "name": "雷电影",
@@ -1341,7 +1542,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/雷电影.json"
+    "url": "/data/雷电影.json",
+    "format": "json"
   },
   {
     "name": "马保国",
@@ -1349,7 +1551,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/马保国.json"
+    "url": "/data/马保国.json",
+    "format": "json"
   },
   {
     "name": "高城千砂",
@@ -1357,7 +1560,8 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/高城千砂.json"
+    "url": "/data/高城千砂.json",
+    "format": "json"
   },
   {
     "name": "鱼猫？猫鱼？",
@@ -1365,7 +1569,17 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/鱼猫？猫鱼？.json"
+    "url": "/data/鱼猫？猫鱼？.json",
+    "format": "json"
+  },
+  {
+    "name": "鸽子",
+    "ds": "几乎为酒馆转，可能不太好用",
+    "vin": "1.0.0",
+    "wrt": "Lazy",
+    "time": "2025-04-24",
+    "url": "/data/鸽子.json",
+    "format": "json"
   },
   {
     "name": "黑羽快斗（怪盗基德）",
@@ -1373,6 +1587,7 @@
     "vin": "1.0.0",
     "wrt": "Lazy",
     "time": "2025-04-24",
-    "url": "/data/黑羽快斗（怪盗基德）.json"
+    "url": "/data/黑羽快斗（怪盗基德）.json",
+    "format": "json"
   }
 ]
