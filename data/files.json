@@ -5,7 +5,8 @@
     "vin": "1.0",
     "wrt": "TwperBody",
     "time": "2023-12-01",
-    "url": "/data/files.json"
+    "url": "/data/files.json",
+    "format": "json"
   },
   {
     "name": "default",
@@ -13,7 +14,8 @@
     "vin": "1.0.0",
     "wrt": "RockChinQ",
     "time": "2025-04-24",
-    "url": "/data/default.json"
+    "url": "/data/default.json",
+    "format": "json"
   },
   {
     "name": "AI画师",
