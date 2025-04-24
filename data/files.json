@@ -1502,18 +1502,18 @@
   },
   {
     "name": "阿洛娜",
-    "ds": "几乎为酒馆转，可能不太好用",
+    "ds": "好用",
     "vin": "1.0.0",
-    "wrt": "Lazy",
+    "wrt": "TwperBody",
     "time": "2025-04-24",
     "url": "/data/阿洛娜.json",
     "format": "json"
   },
   {
     "name": "阿洛娜PRO",
-    "ds": "几乎为酒馆转，可能不太好用",
+    "ds": "好用",
     "vin": "1.0.0",
-    "wrt": "Lazy",
+    "wrt": "TwperBody",
     "time": "2025-04-24",
     "url": "/data/阿洛娜pro.json",
     "format": "json"
