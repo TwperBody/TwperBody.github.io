@@ -113,7 +113,25 @@ header-mask: 0.3
 {% endif %}
 
 <style>
-  /* 在原有样式基础上新增 */
+  /* 新增表格尺寸调整样式 */
+  .table {
+    font-size: 16px;  /* 调大表格字体 */
+    line-height: 1.8; /* 增加行高 */
+    width: 100%;      /* 表格宽度占满容器 */
+  }
+  
+  .table th, 
+  .table td {
+    padding: 16px 20px; /* 增大单元格内边距 */
+    vertical-align: middle;
+  }
+
+  .post-container {
+    max-width: 1200px;  /* 增大表格容器宽度 */
+    margin: 0 auto;
+  }
+
+  /* 原有下载按钮样式保持不变 */
   .btn-download {
     padding: 5px 12px;
     border-radius: 15px;
